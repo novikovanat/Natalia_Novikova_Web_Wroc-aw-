@@ -1,0 +1,1 @@
+{"version":3,"file":"OderConfirmationPage-CgO-i4ST.js","sources":["../../src/pages/OderConfirmationPage.tsx"],"sourcesContent":["\r\nexport default function OderConfirmationPage() {\r\n  return (\r\n    <div>OderConfirmationPage</div>\r\n  )\r\n}\r\n"],"names":["OderConfirmationPage","jsx"],"mappings":"wCACA,SAAwBA,GAAuB,CAE3C,OAAAC,EAAA,IAAC,OAAI,SAAoB,sBAAA,CAAA,CAE7B"}

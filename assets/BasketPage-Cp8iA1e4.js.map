@@ -1,0 +1,1 @@
+{"version":3,"file":"BasketPage-Cp8iA1e4.js","sources":["../../src/pages/BasketPage.tsx"],"sourcesContent":["\r\nexport default function BasketPage() {\r\n  return (\r\n    <div>BasketPage</div>\r\n  )\r\n}\r\n"],"names":["BasketPage","jsx"],"mappings":"wCACA,SAAwBA,GAAa,CAEjC,OAAAC,EAAA,IAAC,OAAI,SAAU,YAAA,CAAA,CAEnB"}
