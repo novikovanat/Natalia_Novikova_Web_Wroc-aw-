@@ -2,7 +2,7 @@
   "name": "natalia-novikova-web-wroc-aw-",
   "private": true,
   "version": "0.0.0",
-  "type": "module",
+  "homepage": "https://novikovanat.github.io/Natalia_Novikova_Web_Wroc-aw-",
   "scripts": {
     "dev": "vite",
     "predeploy": "npm run build",
