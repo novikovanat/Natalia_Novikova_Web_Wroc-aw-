@@ -28,7 +28,7 @@ export default function App() {
             }
           />
 
-          <Route path="/basket" element={<BasketPage />} />
+          <Route path="/basket" element={<BasketPage goods={basket} />} />
           <Route path="/basket/summary" element={<OrderSummaryPage />} />
           <Route path="/confirmation" element={<OderConfirmationPage />} />
           <Route path="*" element={<NotFoundPage />} />

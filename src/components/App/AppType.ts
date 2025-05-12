@@ -1,10 +1,11 @@
 import type { Dispatch, SetStateAction } from "react";
-type Item = {
+export type Item = {
   name: string;
   price: {
     main: number;
     fractional: number;
   };
+  id: number;
 };
 export type Basket = Array<Item>;
 export type SetState<T> = React.Dispatch<React.SetStateAction<T>>;

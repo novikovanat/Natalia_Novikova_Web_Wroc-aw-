@@ -1,15 +1,16 @@
-import type { productCardProps } from "./ProductCardType.ts";
 import { useContext } from "react";
 import { BasketContext } from "../../hepers/context.tsx";
+import type { Item } from "../App/AppType.ts";
 export default function ProductCard({
   name,
   price: { main, fractional },
-}: productCardProps) {
+  id
+}: Item) {
   const { setBasket } = useContext(BasketContext);
 
   function handleAddToCart() {
     setBasket((prev) => {
-      return [...prev, { name, price: { main, fractional } }];
+      return [...prev, { name, price: { main, fractional }, id }];
     });
   }
 
