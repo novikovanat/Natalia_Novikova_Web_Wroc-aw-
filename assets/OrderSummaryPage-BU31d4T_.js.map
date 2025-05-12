@@ -1,1 +1,0 @@
-{"version":3,"file":"OrderSummaryPage-BU31d4T_.js","sources":["../../src/pages/OrderSummaryPage.tsx"],"sourcesContent":["\r\nexport default function OrderSummaryPage() {\r\n  return (\r\n    <div>OrderSummaryPage</div>\r\n  )\r\n}\r\n"],"names":["OrderSummaryPage","jsx"],"mappings":"wCACA,SAAwBA,GAAmB,CAEvC,OAAAC,EAAA,IAAC,OAAI,SAAgB,kBAAA,CAAA,CAEzB"}

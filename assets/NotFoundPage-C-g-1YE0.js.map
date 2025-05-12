@@ -1,0 +1,1 @@
+{"version":3,"file":"NotFoundPage-C-g-1YE0.js","sources":["../../src/pages/NotFoundPage.tsx"],"sourcesContent":["\r\nexport default function NotFoundPage() {\r\n  return (\r\n    <div>NotFoundPage</div>\r\n  )\r\n}\r\n"],"names":["NotFoundPage","jsx"],"mappings":"wCACA,SAAwBA,GAAe,CAEnC,OAAAC,EAAA,IAAC,OAAI,SAAY,cAAA,CAAA,CAErB"}

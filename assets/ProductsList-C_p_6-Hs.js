@@ -1,0 +1,2 @@
+import{r as i,B as d,j as t}from"./index-BGrHiQ_2.js";function u({item:n}){const{setBasket:r}=i.useContext(d);function s(){r(a=>[...a,n])}const{name:o,price:{main:e,fractional:c}}=n;return t.jsxs("li",{children:[t.jsx("p",{children:o}),t.jsxs("p",{children:["price:",t.jsxs("span",{children:[e,",",c]}),"zł"]}),t.jsx("button",{type:"button",onClick:s,children:"Dodaj do koszyka"})]})}function l({goods:n}){const r=n.map(s=>t.jsx(u,{item:s},s.id));return t.jsx("ul",{children:r})}export{l as P};
+//# sourceMappingURL=ProductsList-C_p_6-Hs.js.map
